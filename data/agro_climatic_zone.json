@@ -1,0 +1,729 @@
+{
+  "title": "Agroclimatic Zones of India (Extracted from Chapter-5, pp.7–16)",
+  "pages": "7-16",
+  "zones": [
+    {
+      "name": "Western Himalayan region",
+      "region": [
+        "Jammu and Kashmir",
+        "Himachal Pradesh",
+        "Kumaun-Garhwal areas of Uttaranchal"
+      ],
+      "climate": {
+        "description": "Summer season is mild but the winter season experiences severe cold conditions.",
+        "temperature": {
+          "July": "5°C-30°C",
+          "January": "0°C to -4°C"
+        },
+        "rainfall": "Average annual rainfall 75cm-150cm; in Ladakh, less than 30cm",
+        "vegetation": [
+          "Varied with height along the hill slopes"
+        ]
+      },
+      "soils": [
+        "Silty loam",
+        "Valleys and duns have thick layers of alluvium (Kashmir, Kullu, Dun)",
+        "Hill slopes have thin brown hilly soils"
+      ],
+      "water_resources": [
+        "Perennial rivers like Ganga, Yamuna, Jhelum, Chenab, Satluj and Beas provide irrigation water to canals",
+        "Cheap hydel power for agriculture and industries"
+      ],
+      "crops": {
+        "cereals": [
+          "Maize",
+          "Wheat",
+          "Potato",
+          "Barley"
+        ],
+        "temperate_fruits": [
+          "Apple",
+          "Peach",
+          "Pear",
+          "Walnut",
+          "Apricot"
+        ],
+        "valley_crops": [
+          "Rice"
+        ],
+        "garden_plantation": [
+          "Tea",
+          "Temperate vegetables",
+          "Flowers",
+          "Ginger",
+          "Saffron"
+        ]
+      },
+      "economy_activities": [
+        "High altitude alpine pastures (‘dhoks’ or ‘margs’) used by Gujjars, Bakarwals and Gaddis to rear sheep, goats, cattle",
+        "Economy is largely agrarian"
+      ],
+      "problems": [
+        "Poor accessibility",
+        "Soil erosion",
+        "Landslides",
+        "Inclement weather",
+        "Inadequacy of marketing and storage facilities",
+        "Population is generally rural-based and poor"
+      ]
+    },
+    {
+      "name": "Eastern Himalayan Region",
+      "region": [
+        "Sikkim",
+        "Darjeeling area (West Bengal)",
+        "Arunachal Pradesh",
+        "Assam hills",
+        "Nagaland",
+        "Meghalaya",
+        "Manipur",
+        "Mizoram",
+        "Tripura"
+      ],
+      "climate": {
+        "description": "Rugged topography, thick forest cover and sub-humid climate",
+        "temperature": {
+          "July": "25°C-33°C",
+          "January": "10°C-24°C"
+        },
+        "rainfall": "Average rainfall 200-400cm"
+      },
+      "soils": [
+        "Brownish",
+        "Thick layered",
+        "Less fertile"
+      ],
+      "crops": {
+        "staples": [
+          "Rice",
+          "Potato",
+          "Maize"
+        ],
+        "beverages": [
+          "Tea"
+        ],
+        "fruits": [
+          "Orange",
+          "Pine-apple",
+          "Lime",
+          "Lichi"
+        ]
+      },
+      "notes": [
+        "Shifting cultivation (Jhum) is practised in nearly 1/3 of the cultivated area and food crops are raised mainly for sustenance"
+      ],
+      "problems": [
+        "Need marked improvement in infrastructural facilities",
+        "Soil degradation",
+        "Deforestation"
+      ],
+      "solutions": [
+        "Improve infrastructural facilities to accelerate development",
+        "Arrest soil degradation by controlling deforestation and by terracing in hills",
+        "Control shifting cultivation by encouraging permanent settlement and subsistence agriculture"
+      ]
+    },
+    {
+      "name": "Lower Gangetic Plains Region",
+      "region": [
+        "Eastern Bihar",
+        "West Bengal",
+        "Assam valley"
+      ],
+      "climate": {
+        "description": "Hot and humid climate",
+        "temperature": {
+          "July": "26°C-41°C",
+          "January": "9°C-24°C"
+        },
+        "rainfall": "Annual rainfall 100cm-200cm"
+      },
+      "soils": [
+        "Fine clay to silty-clay",
+        "Alluvial soil"
+      ],
+      "water_resources": [
+        "Adequate storage of ground water with high water table",
+        "Wells and canals are the main source of irrigation",
+        "Problem of water logging and marshy lands in some parts"
+      ],
+      "crops": {
+        "main": [
+          "Rice (Aman, Aus and Boro—three successive crops in a year)"
+        ],
+        "others": [
+          "Jute",
+          "Maize",
+          "Potato",
+          "Pulses"
+        ],
+        "fruits": [
+          "Mango",
+          "Guava",
+          "Arecanut",
+          "Jack fruit"
+        ]
+      },
+      "problems": [
+        "Small size of holding",
+        "Poverty of the farmers",
+        "Water logging and marshy lands (acute in some parts)"
+      ],
+      "solutions": [
+        "Promote allied agriculture activities (horticulture—banana, mango and citrus fruits), pisciculture, poultry, livestock, forage production and seed supply to supplement farmers’ income",
+        "Establish an export processing zone for marine and sea foods equipped with modern facilities of freezing, canning, dehydration, and quality control"
+      ]
+    },
+    {
+      "name": "Middle Gangetic Plains Region",
+      "region": [
+        "Eastern Uttar Pradesh",
+        "Bihar (except Chhotanagpur plateau)"
+      ],
+      "climate": {
+        "description": "Hot and humid summer and mild winter season",
+        "temperature": {
+          "July": "26°C-41°C",
+          "January": "9°C-24°C"
+        },
+        "rainfall": "Annual rainfall 100cm-200cm"
+      },
+      "soils": [
+        "Fertile alluvial plain drained by Ganga River and its tributaries"
+      ],
+      "water_resources": [
+        "Vast potential of ground water and surface runoff in the form of perennial rivers",
+        "Irrigation through tube wells, canals and wells",
+        "30% of GCA is irrigated and cropping intensity is 142%"
+      ],
+      "crops": {
+        "kharif": [
+          "Rice",
+          "Maize",
+          "Millets"
+        ],
+        "rabi": [
+          "Wheat",
+          "Gram",
+          "Barley",
+          "Peas",
+          "Mustard",
+          "Potato"
+        ]
+      },
+      "problems": [
+        "Soil erosion",
+        "Alkaline and saline formations",
+        "Waterlogging",
+        "Small size of land holdings and poverty",
+        "Zinc deficiency in rice is widespread"
+      ],
+      "solutions": [
+        "Adopt alternative farming systems",
+        "Utilise chaur lands for pisciculture to boost agricultural production",
+        "Reclamation of usar lands, wastelands, and fallow lands for agriculture and allied activities (agro-forestry, silviculture, floriculture etc.)"
+      ]
+    },
+    {
+      "name": "Upper Gangetic Plains Region",
+      "region": [
+        "Central and western parts of Uttar Pradesh",
+        "Parts of Uttarakhand"
+      ],
+      "climate": {
+        "description": "Sub-humid climate",
+        "temperature": {
+          "July": "26°C-41°C",
+          "January": "7°C-23°C"
+        },
+        "rainfall": "Average annual rainfall 75cm-150cm"
+      },
+      "soils": [
+        "Sandy loamy to clayey loamy"
+      ],
+      "water_resources": [
+        "Canal, tube-well and wells are the main source of irrigation"
+      ],
+      "crops": {
+        "kharif": [
+          "Rice",
+          "Sugarcane",
+          "Maize",
+          "Pulses",
+          "Millets (fodder)"
+        ],
+        "rabi": [
+          "Wheat",
+          "Oilseeds",
+          "Pulses (gram, lentil)",
+          "Potato",
+          "Vegetables"
+        ],
+        "orchards": [
+          "Mango",
+          "Guava",
+          "Peaches",
+          "Litchis"
+        ]
+      },
+      "problems": [
+        "Fluctuations in the price of sugarcane",
+        "Inadequacy of marketing and storage facilities",
+        "Excessive irrigation of sugarcane, paddy and wheat resulting into the formation of saline and alkaline soils"
+      ],
+      "solutions": [
+        "Replace soil exhaustive crops with leguminous crops",
+        "Improve low land cultivation through water harvesting structures and alternative farming systems",
+        "Utilise chaur lands for pisciculture"
+      ]
+    },
+    {
+      "name": "Trans-Gangetic Plains Region",
+      "region": [
+        "Punjab",
+        "Haryana",
+        "Delhi",
+        "Chandigarh",
+        "Ganganagar district of Rajasthan"
+      ],
+      "climate": {
+        "description": "Semiarid",
+        "temperature": {
+          "July": "26°C-42°C",
+          "January": "7°C-22°C"
+        },
+        "rainfall": "Average annual rainfall 70cm-125cm"
+      },
+      "water_resources": [
+        "Private tube wells and canals provide principal means of irrigation"
+      ],
+      "crops": {
+        "major": [
+          "Wheat",
+          "Sugarcane",
+          "Cotton",
+          "Rice",
+          "Gram",
+          "Maize",
+          "Millets",
+          "Pulses",
+          "Oilseeds"
+        ]
+      },
+      "economy_activities": [
+        "Dairying is an important economic activity"
+      ],
+      "problems": [
+        "Water logging",
+        "Salinity",
+        "Alkalinity",
+        "Soil erosion",
+        "Falling water table"
+      ],
+      "solutions": [
+        "Change in the present rice and wheat rotation (both are soil exhaustive)",
+        "Promotion of horticulture",
+        "Grow pulses like tur and peas in upland conditions",
+        "Cultivation of vegetables in the vicinity of industrial clusters",
+        "Development of high quality fodder crops and animal feed by stepping up area under fodder production"
+      ]
+    },
+    {
+      "name": "Eastern Plateau and Hills Region",
+      "region": [
+        "Chotanagpur plateau",
+        "Rajmahal hills",
+        "Chhattisgarh plains",
+        "Dandakaranya plateau"
+      ],
+      "climate": {
+        "temperature": {
+          "July": "26°C-34°C",
+          "January": "10°C-27°C"
+        },
+        "rainfall": "Annual rainfall 80cm-150cm"
+      },
+      "soils": [
+        "Red and yellow",
+        "Occasional patches of laterites and alluviums",
+        "Most parts are acidic so application of lime is necessary"
+      ],
+      "water_resources": [
+        "Deficient due to plateau structure and non-perennial streams"
+      ],
+      "crops": {
+        "rainfed": [
+          "Rice",
+          "Millets",
+          "Maize",
+          "Oilseeds",
+          "Ragi",
+          "Gram",
+          "Potato"
+        ],
+        "kharif_share": [
+          "During kharif season, 80% is under rice"
+        ]
+      },
+      "problems": [
+        "Nutrient leached soil",
+        "Scarce underground water table",
+        "Rugged topography poses obstacles in development of irrigation facilities",
+        "Agriculturally one of the backward regions where the farmers are tradition bound",
+        "Rural unemployment is a chronic problem"
+      ],
+      "solutions": [
+        "Soil conservation",
+        "Quality seeds",
+        "Encouragement to the cultivation of groundnut, soybean and redgram in upland"
+      ]
+    },
+    {
+      "name": "Central Plateau and Hills Region",
+      "region": [
+        "Bundelkhand",
+        "Baghelkhand",
+        "Bhander plateau",
+        "Malwa plateau",
+        "Vindhyachal hills",
+        "Parts of Madhya Pradesh",
+        "Parts of Uttar Pradesh",
+        "Parts of Rajasthan"
+      ],
+      "climate": {
+        "description": "Semi-arid in western part and sub-humid in eastern part",
+        "temperature": {
+          "July": "26°C-40°C",
+          "January": "7°C-24°C"
+        },
+        "rainfall": "Average annual rainfall 50cm-100cm"
+      },
+      "soils": [
+        "Mixed red, yellow and black"
+      ],
+      "crops": {
+        "kharif": [
+          "Cotton",
+          "Soyabean",
+          "Millets",
+          "Maize",
+          "Pulses"
+        ],
+        "rabi": [
+          "Wheat",
+          "Oilseeds",
+          "Gram",
+          "Lentil"
+        ]
+      },
+      "water_resources": [
+        "Dearth of water resources"
+      ],
+      "problems": [
+        "Underground water table is scanty and utilization is constrained by hard rock formations",
+        "Agriculture is largely dependent on monsoon"
+      ],
+      "solutions": [
+        "Adopt a package programme to make agriculture remunerative",
+        "Dry farming practices are imperative to get good returns and make agriculture sustainable"
+      ]
+    },
+    {
+      "name": "Western Plateau and Hills Region",
+      "region": [
+        "Southern part of Malwa plateau",
+        "Deccan plateau (Maharashtra)"
+      ],
+      "climate": {
+        "description": "Hot and humid",
+        "temperature": {
+          "Mean monthly": "Above 20°C"
+        },
+        "rainfall": "Average annual rainfall 25cm-75cm"
+      },
+      "crops": {
+        "principal": [
+          "Jowar",
+          "Cotton",
+          "Sugarcane",
+          "Rice",
+          "Bajra",
+          "Wheat",
+          "Gram",
+          "Pulses",
+          "Potato",
+          "Groundnut",
+          "Oilseeds"
+        ],
+        "horti_specialty": [
+          "Oranges",
+          "Grapes",
+          "Bananas"
+        ]
+      },
+      "problems": [
+        "Rain shadow region of Western Ghats",
+        "Region is deficient in water resources",
+        "Only 12.4 per cent area is irrigated"
+      ],
+      "solutions": [
+        "Popularise water saving devices like sprinklers and drip system to increase water use efficiency",
+        "Lower value crops of jowar, bajra and rainfed wheat should give way to high value oilseeds like sunflower, safflower and mustard",
+        "Five per cent area under rainfed cotton and jowar could be substituted with fruits like ber, pomegranate, mango and guava"
+      ]
+    },
+    {
+      "name": "Southern Plateau and Hills",
+      "region": [
+        "Southern Maharashtra",
+        "Karnataka",
+        "Western Andhra Pradesh",
+        "Northern Tamil Nadu"
+      ],
+      "climate": {
+        "description": "Semi-arid",
+        "temperature": {
+          "July": "26°C-42°C",
+          "January": "10°C-21°C"
+        },
+        "rainfall": "Annual rainfall 50cm-100cm"
+      },
+      "crops": {
+        "predominant": [
+          "Low value cereals",
+          "Minor millets"
+        ],
+        "hilly_slopes": [
+          "Coffee",
+          "Tea",
+          "Cardamom",
+          "Spices"
+        ]
+      },
+      "problems": [
+        "Only 50 per cent of area cultivated",
+        "81 per cent of dry land farming",
+        "Low cropping intensity of 111%",
+        "Inadequacies of irrigation facilities have made agriculture highly vulnerable and least sustainable"
+      ],
+      "solutions": [
+        "Divert some area under coarse cereals to pulses and oilseeds",
+        "Encourage horticulture, dairy development and poultry farming"
+      ]
+    },
+    {
+      "name": "East Coast Plains and Hills Region",
+      "region": [
+        "Coromandel coast",
+        "Northern Circar coasts of Andhra Pradesh and Orissa"
+      ],
+      "climate": {
+        "description": "Sub-humid maritime",
+        "temperature": {
+          "May": "26°C-32°C",
+          "January": "20°C-29°C"
+        },
+        "rainfall": "Annual rainfall 75cm-150cm"
+      },
+      "soils": [
+        "Alluvial",
+        "Loamy",
+        "Clayey"
+      ],
+      "crops": {
+        "main": [
+          "Rice",
+          "Jute",
+          "Tobacco",
+          "Sugarcane",
+          "Maize",
+          "Millets",
+          "Groundnut",
+          "Oilseeds"
+        ],
+        "horticulture": [
+          "Banana",
+          "Coconut",
+          "Cashew nut",
+          "Areca nut",
+          "Citrus fruits"
+        ]
+      },
+      "production_significance": [
+        "Accounts for 20.33% of rice production of the country",
+        "Accounts for 17.05% of groundnut production of the country"
+      ],
+      "problems": [
+        "Alkalinity of soil"
+      ],
+      "solutions": [
+        "Discourage monoculture of rice and encourage crop diversification",
+        "Increase cropping intensity",
+        "Cultivation of spices"
+      ]
+    },
+    {
+      "name": "Western Coastal Plains and Ghats",
+      "region": [
+        "Malabar coastal plains",
+        "Konkan coastal plains",
+        "Sahyadris (Western Ghats)"
+      ],
+      "climate": {
+        "description": "Humid",
+        "temperature": {
+          "July (mean)": "25°C-30°C",
+          "January (mean)": "18°C-30°C"
+        },
+        "rainfall": "Mean annual rainfall more than 200cm"
+      },
+      "soils": [
+        "Laterite",
+        "Coastal alluvial"
+      ],
+      "crops": {
+        "main": [
+          "Rice",
+          "Coconut",
+          "Oilseeds",
+          "Sugarcane",
+          "Millets",
+          "Pulses",
+          "Cotton"
+        ],
+        "plantation_spices": [
+          "Plantation crops and spices raised along hill slopes of Western Ghats"
+        ]
+      },
+      "economy_activities": [
+        "Fisheries are an important sector"
+      ],
+      "solutions": [
+        "Encourage high value crops",
+        "Prawn culture in brackish water"
+      ]
+    },
+    {
+      "name": "Gujarat Plains and Hills",
+      "region": [
+        "Hills and plains of Kathiawar",
+        "Fertile valleys of Mahi and Sabarmati rivers"
+      ],
+      "climate": {
+        "description": "Arid and semi-arid",
+        "temperature": {
+          "July (mean)": "30°C",
+          "January (mean)": "25°C"
+        },
+        "rainfall": "Mean annual rainfall 50cm-100cm"
+      },
+      "soils": [
+        "Regur in plateau region",
+        "Alluvium in coastal plains",
+        "Red and yellow soils in Jamnagar area"
+      ],
+      "crops": {
+        "main": [
+          "Groundnut",
+          "Cotton",
+          "Rice",
+          "Millets",
+          "Oilseeds",
+          "Wheat",
+          "Tobacco"
+        ]
+      },
+      "notes": [
+        "Important oilseed producing region"
+      ],
+      "water_resources": [
+        "Only 22.5% irrigated",
+        "Irrigation through wells and tube wells"
+      ],
+      "solutions": [
+        "Rain water harvesting",
+        "Surface and groundwater management",
+        "Dryland farming",
+        "Wasteland development"
+      ]
+    },
+    {
+      "name": "Western Dry Region",
+      "region": [
+        "Western Rajasthan west of the Aravallis"
+      ],
+      "climate": {
+        "description": "Hot sandy desert, erratic rainfall, high evaporation, contrasting temperatures, absence of perennial rivers, scanty vegetation",
+        "temperature": {
+          "June": "28°C-45°C",
+          "January": "5°C-22°C"
+        },
+        "rainfall": "Annual average less than 25cm"
+      },
+      "soils": [
+        "Sandy"
+      ],
+      "crops": {
+        "kharif": [
+          "Bajra",
+          "Jowar",
+          "Moth"
+        ],
+        "rabi": [
+          "Wheat",
+          "Gram"
+        ]
+      },
+      "economy_activities": [
+        "Livestock contributes greatly in desert ecology"
+      ],
+      "problems": [
+        "Famine and drought are common features",
+        "High land-man ratio",
+        "Land under pastures is low (4.3%)",
+        "Cultivable waste and fallow lands account for nearly 42% of the geographical area",
+        "Net irrigated area is only 6.3% of net sown area"
+      ],
+      "solutions": [
+        "Improved irrigation",
+        "Fertilizers",
+        "Quality seeds"
+      ]
+    },
+    {
+      "name": "The Islands Region",
+      "region": [
+        "Andaman-Nicobar",
+        "Lakshadweep"
+      ],
+      "climate": {
+        "description": "Equatorial climate",
+        "temperature": {
+          "Range": "23°C to 31°C"
+        },
+        "rainfall": "Annual rainfall 160cm-300cm"
+      },
+      "soils": [
+        "Lakshadweep: highly calcareous and sandy",
+        "Andaman and Nicobar: medium to very deep red loamy soils, including marine alluvium-derived soils along the coast"
+      ],
+      "crops": {
+        "main": [
+          "Rice",
+          "Maize",
+          "Millets",
+          "Pulses",
+          "Coconut",
+          "Areca nut",
+          "Turmeric",
+          "Cassava"
+        ]
+      },
+      "notes": [
+        "Nearly half of the area is under coconut",
+        "Area covered with thick forests and agriculture is at a backward stage",
+        "Huge potential for Silviculture and Aquaculture"
+      ]
+    }
+  ]
+}

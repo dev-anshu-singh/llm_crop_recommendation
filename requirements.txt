@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pydantic
+pandas
+numpy
+langchain
+langchain-google-genai
+langchain-community
+openmeteo-requests
+openpyxl
+requests-cache
+retry-requests
+geopy
+python-multipart
+python-dotenv
+jq
+faiss-cpu

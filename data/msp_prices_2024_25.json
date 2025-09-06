@@ -1,0 +1,120 @@
+{
+    "Kharif 2024-25": [
+        {
+            "Crop": "Paddy Common",
+            "Cost of Production": 1533,
+            "MSP": 2300
+        },
+        {
+            "Crop": "Jowar",
+            "Cost of Production": 2247,
+            "MSP": 3371
+        },
+        {
+            "Crop": "Bajra",
+            "Cost of Production": 1485,
+            "MSP": 2625
+        },
+        {
+            "Crop": "Ragi",
+            "Cost of Production": 2860,
+            "MSP": 4290
+        },
+        {
+            "Crop": "Maize",
+            "Cost of Production": 1447,
+            "MSP": 2225
+        },
+        {
+            "Crop": "Tur (Arhar)",
+            "Cost of Production": 4761,
+            "MSP": 7550
+        },
+        {
+            "Crop": "Moong",
+            "Cost of Production": 5788,
+            "MSP": 8682
+        },
+        {
+            "Crop": "Urad",
+            "Cost of Production": 4883,
+            "MSP": 7400
+        },
+        {
+            "Crop": "Groundnut",
+            "Cost of Production": 4522,
+            "MSP": 6783
+        },
+        {
+            "Crop": "Sunflower",
+            "Cost of Production": 4853,
+            "MSP": 7280
+        },
+        {
+            "Crop": "Soyabean (Yellow)",
+            "Cost of Production": 3261,
+            "MSP": 4892
+        },
+        {
+            "Crop": "Sesamum",
+            "Cost of Production": 6178,
+            "MSP": 9267
+        },
+        {
+            "Crop": "Nigerseed",
+            "Cost of Production": 5811,
+            "MSP": 8717
+        },
+        {
+            "Crop": "Cotton (Medium Staple)",
+            "Cost of Production": 4747,
+            "MSP": 7121
+        }
+    ],
+    "Rabi 2025-26": [
+        {
+            "Crop": "Wheat",
+            "Cost of Production": 1182,
+            "MSP": 2425
+        },
+        {
+            "Crop": "Barley",
+            "Cost of Production": 1239,
+            "MSP": 1980
+        },
+        {
+            "Crop": "Gram",
+            "Cost of Production": 3527,
+            "MSP": 5650
+        },
+        {
+            "Crop": "Masur (Lentil)",
+            "Cost of Production": 3537,
+            "MSP": 6700
+        },
+        {
+            "Crop": "Rapeseed & Mustard",
+            "Cost of Production": 3011,
+            "MSP": 5950
+        },
+        {
+            "Crop": "Safflower",
+            "Cost of Production": 3960,
+            "MSP": 5940
+        }
+    ],
+    "Copra 2025": [
+        {
+            "Crop": "Copra (Milling)",
+            "Cost of Production": 7721,
+            "MSP": 11582
+        }
+    ],
+    "Jute 2025-26": [
+        {
+            "Crop": "Jute",
+            "Cost of Production": 3387,
+            "MSP": 5650
+        }
+    ]
+}
