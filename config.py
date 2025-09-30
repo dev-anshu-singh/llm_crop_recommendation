@@ -10,13 +10,11 @@ API_VERSION = "1.0.0"
 GEMINI_LLM_MODEL = "gemini-2.5-pro"
 EMBEDDING_MODEL = "models/embedding-001"
 
+BASE_DIR = Path(__file__).resolve().parent
 # --- RAG and Vector Store Configuration ---
-FAISS_INDEX_PATH = r"D:\Devanshu\College\Crop Recommendation Project\Crop_Recommendation_2\llm\faiss_index"
+FAISS_INDEX_PATH = BASE_DIR/"llm"/"faiss_index"
 
 # --- Data File Paths ---
-# Use os.path.join for cross-platform compatibility
-
-BASE_DIR = Path(__file__).resolve().parent   # Crop Recommender/
 DATA_DIR = BASE_DIR / "data"
 
 AGRO_ZONE_DATA_PATH = os.path.join(DATA_DIR, "agro_climatic_zone.json")
