@@ -1,0 +1,26 @@
+# Virtual environment (never commit this)
+.venv/
+
+# IDE/editor settings
+.idea/
+.vscode/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# SQLite cache (not needed in repo)
+.cache.sqlite
+*.sqlite
+
+# Environment variables (keep secrets local, set them in Render dashboard instead)
+.env
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db

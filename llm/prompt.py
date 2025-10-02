@@ -7,7 +7,7 @@ crop_recommendation_prompt = PromptTemplate(
         "irrigation_type",
         "soil_test_values",
         "previous_crop",
-        "excluded_crops"
+        "excluded_crops",
         "weather_data",
         "other_env_data",
         "fertilizer_recommendation",

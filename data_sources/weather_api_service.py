@@ -27,9 +27,12 @@ def get_daily_weather(latitude: float, longitude: float) -> str:
     }
 
     responses = openmeteo.weather_api(url, params=params)
+
+    if not responses or len(responses) == 0:
+        raise ValueError("Weather API returned no data")
+
     response = responses[0]
 
-    # --- Hourly data ---
     hourly = response.Hourly()
     hourly_data = {
         "date": pd.date_range(

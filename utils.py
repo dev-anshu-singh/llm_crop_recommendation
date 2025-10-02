@@ -13,7 +13,7 @@ def df_to_llm_csv(df: pd.DataFrame) -> str:
 
 def get_retrieved_context(retriever, query: str) -> str:
     retrieved_doc = retriever.invoke(query)
-    return "\\n".join(doc.page_content for doc in retrieved_doc)
+    return "\n\n".join(doc.page_content for doc in retrieved_doc)
 
 def get_current_date(x):
     """Get current date"""

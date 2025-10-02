@@ -8,7 +8,7 @@ API_VERSION = "1.0.0"
 
 # --- LLM and Embedding Model Configuration ---
 GEMINI_LLM_MODEL = "gemini-2.5-pro"
-EMBEDDING_MODEL = "models/embedding-001"
+EMBEDDING_MODEL = "models/gemini-embedding-001"
 
 BASE_DIR = Path(__file__).resolve().parent
 # --- RAG and Vector Store Configuration ---
